@@ -47,7 +47,7 @@ A stylish and responsive gaming website built with HTML, CSS, and Bootstrap.
 
 ### 💬 Let’s Connect!
 
-- 📧 Email: unaiza.rizwan@example.com  
+- 📧 Email: unaizaali888@gmail.com  
 
 
 ---
